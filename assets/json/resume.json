@@ -180,7 +180,7 @@
     {
       "name": "Generative AI Simulation (GenAISim)",
       "summary": "The GenAISim project is funded by the ARC Centre of Excellence for Automated Decision Making and Society (ADM+S), Australia. This project will investigate a hybrid decision- making system, leveraging cooperative knowledge from multiple stakeholders through socio-technical observations, and knowledge priors in Large Language Models (LLMs) and open datasets. It will develop a novel suite of generative and data-driven simulations, useful for depicting current and future urban scenarios, including in mobility, urban policymaking, and health domains.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
+      "highlights": ["Agentic LLM", "Social Intelligence"],
       "startDate": "2024-10-01",
       "endDate": "2027-10-01",
       "url": "https://www.admscentre.org.au/genaisim-simulation-in-the-loop-for-multi-stakeholder-interactions-with-generative-agents/"
